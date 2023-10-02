@@ -1,0 +1,5 @@
+{ 
+  "channelEmbedJoin": "id_canal_entrou",
+  "channelEmbedLeave": "id_canal_saiu",
+  "channelRegras": "id_canal_regras"
+} 
