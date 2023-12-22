@@ -1,5 +1,6 @@
 {
-    "token": "token_discord_developers",
+    "token": "MTA4OTk2NDc2NzUxMjM3NTMxNg.GfsCPf.gQgMP6gtdAHB52_8Pe-3ju65DSaZ9BkrPBCiwg",
     "defaultPrefix": ["!","+"],
-    "developerID": "id_discord_developer_bot"
+    "developerID": "id_discord_developer_bot",
+    "userMongoDB": "usuario_senha_mongodb"
 }
